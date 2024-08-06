@@ -2,6 +2,7 @@ body {
     color: white;
     background: rgb(8, 1, 17, 1);
     margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
 } 
 
 header {
@@ -21,4 +22,8 @@ section {
 
 .chamada-de-texto {
   margin-right: 5%;
+}
+
+h1{
+  font-size: 50px;
 }
